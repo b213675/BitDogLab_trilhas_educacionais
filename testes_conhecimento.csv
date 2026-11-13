@@ -1,0 +1,53 @@
+trilha,item,aplicacao,nota_1,nota_2,nota_3,nota_4,nota_5,n
+Energia solar,Saber que é possível gerar eletricidade a partir da luz solar,anterior,5,0,0,0,13,18
+Energia solar,Compreensão de que mais luz significa mais energia,anterior,7,0,0,0,11,18
+Energia solar,Conhecimento da existência de perda de energia por calor,anterior,15,0,0,0,3,18
+Energia solar,Compreensão de que o sombreamento afeta a geração,anterior,12,0,0,0,6,18
+Energia solar,Compreensão de que a inclinação do painel afeta a geração,anterior,14,0,0,0,4,18
+Energia solar,Conhecimento da melhor inclinação do painel,anterior,9,0,0,0,9,18
+Energia solar,Saber que é possível gerar eletricidade a partir da luz solar,posterior,0,0,0,0,18,18
+Energia solar,Compreensão de que mais luz significa mais energia,posterior,2,0,0,0,16,18
+Energia solar,Conhecimento da existência de perda de energia por calor,posterior,12,0,0,0,6,18
+Energia solar,Compreensão de que o sombreamento afeta a geração,posterior,7,0,0,0,11,18
+Energia solar,Compreensão de que a inclinação do painel afeta a geração,posterior,8,0,0,0,10,18
+Energia solar,Conhecimento da melhor inclinação do painel,posterior,3,0,0,0,15,18
+Energia eólica,Saber que é possível gerar eletricidade a partir do vento,anterior,3,0,0,0,15,18
+Energia eólica,Compreensão de que mais vento significa mais energia,anterior,6,0,0,0,12,18
+Energia eólica,Conhecimento de que o gerador pode funcionar como motor,anterior,13,0,0,0,5,18
+Energia eólica,Compreensão de que obstáculos afetam a geração,anterior,11,0,0,0,7,18
+Energia eólica,Compreensão de que a inclinação da turbina afeta a geração,anterior,12,0,0,0,6,18
+Energia eólica,Conhecimento da melhor inclinação do eixo da turbina,anterior,14,0,0,0,4,18
+Energia eólica,Conhecimento do melhor ângulo de ataque das pás,anterior,16,0,0,0,2,18
+Energia eólica,Saber que é possível gerar eletricidade a partir do vento,posterior,0,0,0,0,18,18
+Energia eólica,Compreensão de que mais vento significa mais energia,posterior,0,0,0,0,18,18
+Energia eólica,Conhecimento de que o gerador pode funcionar como motor,posterior,7,0,0,0,11,18
+Energia eólica,Compreensão de que obstáculos afetam a geração,posterior,6,0,0,0,12,18
+Energia eólica,Compreensão de que a inclinação da turbina afeta a geração,posterior,8,0,0,0,10,18
+Energia eólica,Conhecimento da melhor inclinação do eixo da turbina,posterior,7,0,0,0,11,18
+Energia eólica,Conhecimento do melhor ângulo de ataque das pás,posterior,9,0,0,0,9,18
+Teste integrador,"Compreensão da diferença entre tensão, corrente e potência",anterior,0,10,7,1,0,18
+Teste integrador,Compreensão da relação P = U·I,anterior,15,0,0,0,3,18
+Teste integrador,Compreensão da eficiência como P_saída/P_entrada,anterior,16,0,0,0,2,18
+Teste integrador,"Compreensão da diferença entre tensão, corrente e potência",posterior,0,3,11,3,1,18
+Teste integrador,Compreensão da relação P = U·I,posterior,4,0,0,0,14,18
+Teste integrador,Compreensão da eficiência como P_saída/P_entrada,posterior,5,0,0,0,13,18
+Maquete,Compreensão do conceito de automação residencial,anterior,9,0,0,0,9,18
+Maquete,Conhecimento sobre o funcionamento do motor de corrente contínua,anterior,4,0,6,0,8,18
+Maquete,Compreensão do conceito de PWM,anterior,7,6,1,4,0,18
+Maquete,Conhecimento sobre o funcionamento do servomotor,anterior,5,0,7,0,6,18
+Maquete,Compreensão da associação de lâmpadas em série,anterior,8,0,0,0,10,18
+Maquete,Compreensão do conceito de automação residencial,posterior,1,0,0,0,17,18
+Maquete,Conhecimento sobre o funcionamento do motor de corrente contínua,posterior,1,0,2,0,15,18
+Maquete,Compreensão do conceito de PWM,posterior,1,5,2,3,7,18
+Maquete,Conhecimento sobre o funcionamento do servomotor,posterior,3,0,4,0,11,18
+Maquete,Compreensão da associação de lâmpadas em série,posterior,2,0,0,0,16,18
+PixelArt,Compreensão do conceito de combinação de cores,anterior,3,0,0,0,15,18
+PixelArt,Conhecimento sobre as cores fundamentais (RGB),anterior,0,6,3,7,2,18
+PixelArt,Compreensão da combinatória de 8 bits,anterior,18,0,0,0,0,18
+PixelArt,Capacidade de prever o resultado da soma de cores,anterior,4,6,5,3,0,18
+PixelArt,Compreensão do conceito de coordenadas em matrizes,anterior,0,9,4,2,3,18
+PixelArt,Compreensão do conceito de combinação de cores,posterior,0,0,0,0,18,18
+PixelArt,Conhecimento sobre as cores fundamentais (RGB),posterior,0,0,2,4,12,18
+PixelArt,Compreensão da combinatória de 8 bits,posterior,8,0,7,0,3,18
+PixelArt,Capacidade de prever o resultado da soma de cores,posterior,0,2,3,5,8,18
+PixelArt,Compreensão do conceito de coordenadas em matrizes,posterior,0,1,1,4,12,18

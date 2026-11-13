@@ -1,0 +1,27 @@
+trilha,item,media_anterior,dp_anterior,media_posterior,dp_posterior,mediana_anterior,mediana_posterior,variacao_relativa_pct,ganho_normalizado,U,r,p,p_BH,p_HB
+Energia solar,Saber que é possível gerar eletricidade a partir da luz solar,3.8889,1.7916,5.0000,0.0000,5.0000,5.0000,28.5714,1.0000,207.0000,0.2778,0.0188,0.0376,0.2758
+Energia solar,Compreensão de que mais luz significa mais energia,3.4444,1.9500,4.5556,1.2571,5.0000,5.0000,32.2581,0.7143,207.0000,0.2778,0.0606,0.0829,0.4847
+Energia solar,Conhecimento da existência de perda de energia por calor,1.6667,1.4907,2.3333,1.8856,1.0000,1.0000,40.0000,0.2000,189.0000,0.1667,0.2638,0.2638,0.5599
+Energia solar,Compreensão de que o sombreamento afeta a geração,2.3333,1.8856,3.4444,1.9500,1.0000,5.0000,47.6190,0.4167,207.0000,0.2778,0.1036,0.1171,0.5599
+Energia solar,Compreensão de que a inclinação do painel afeta a geração,1.8889,1.6630,3.2222,1.9876,1.0000,5.0000,70.5882,0.4286,216.0000,0.3333,0.0451,0.0690,0.4508
+Energia solar,Conhecimento da melhor inclinação do painel,3.0000,2.0000,4.3333,1.4907,3.0000,5.0000,44.4444,0.6667,216.0000,0.3333,0.0382,0.0621,0.4206
+Energia eólica,Saber que é possível gerar eletricidade a partir do vento,4.3333,1.4907,5.0000,0.0000,5.0000,5.0000,15.3846,1.0000,189.0000,0.1667,0.0800,0.0990,0.5599
+Energia eólica,Compreensão de que mais vento significa mais energia,3.6667,1.8856,5.0000,0.0000,5.0000,5.0000,36.3636,1.0000,216.0000,0.3333,0.0088,0.0253,0.1577
+Energia eólica,Conhecimento de que o gerador pode funcionar como motor,2.1111,1.7916,3.4444,1.9500,1.0000,5.0000,63.1579,0.4615,216.0000,0.3333,0.0493,0.0712,0.4508
+Energia eólica,Compreensão de que obstáculos afetam a geração,2.5556,1.9500,3.6667,1.8856,1.0000,5.0000,43.4783,0.4545,207.0000,0.2778,0.1036,0.1171,0.5599
+Energia eólica,Compreensão de que a inclinação da turbina afeta a geração,2.3333,1.8856,3.2222,1.9876,1.0000,5.0000,38.0952,0.3333,198.0000,0.2222,0.1921,0.1997,0.5599
+Energia eólica,Conhecimento da melhor inclinação do eixo da turbina,1.8889,1.6630,3.4444,1.9500,1.0000,5.0000,82.3529,0.5000,225.0000,0.3889,0.0206,0.0383,0.2758
+Energia eólica,Conhecimento do melhor ângulo de ataque das pás,1.4444,1.2571,3.0000,2.0000,1.0000,3.0000,107.6923,0.4375,225.0000,0.3889,0.0132,0.0313,0.2188
+Teste integrador,"Compreensão da diferença entre tensão, corrente e potência",2.5000,0.6009,3.1111,0.7370,2.0000,3.0000,24.4444,0.2444,234.0000,0.4444,0.0129,0.0313,0.2188
+Teste integrador,Compreensão da relação P = U·I,1.6667,1.4907,4.1111,1.6630,1.0000,5.0000,146.6667,0.7333,261.0000,0.6111,0.0003,0.0017,0.0074
+Teste integrador,Compreensão da eficiência como P_saída/P_entrada,1.4444,1.2571,3.8889,1.7916,1.0000,5.0000,169.2308,0.6875,261.0000,0.6111,0.0003,0.0017,0.0066
+Maquete,Compreensão do conceito de automação residencial,3.0000,2.0000,4.7778,0.9162,3.0000,5.0000,59.2593,0.8889,234.0000,0.4444,0.0036,0.0116,0.0676
+Maquete,Conhecimento sobre o funcionamento do motor de corrente contínua,3.4444,1.5713,4.5556,1.0657,3.0000,5.0000,32.2581,0.7143,226.0000,0.3951,0.0184,0.0376,0.2758
+Maquete,Compreensão do conceito de PWM,2.1111,1.1493,3.5556,1.3833,2.0000,4.0000,68.4211,0.5000,254.5000,0.5710,0.0028,0.0103,0.0553
+Maquete,Conhecimento sobre o funcionamento do servomotor,3.1111,1.5595,3.8889,1.5235,3.0000,5.0000,25.0000,0.4118,206.5000,0.2747,0.1324,0.1434,0.5599
+Maquete,Compreensão da associação de lâmpadas em série,3.2222,1.9876,4.5556,1.2571,5.0000,5.0000,41.3793,0.7500,216.0000,0.3333,0.0292,0.0506,0.3502
+PixelArt,Compreensão do conceito de combinação de cores,4.3333,1.4907,5.0000,0.0000,5.0000,5.0000,15.3846,1.0000,189.0000,0.1667,0.0800,0.0990,0.5599
+PixelArt,Conhecimento sobre as cores fundamentais (RGB),3.2778,1.0438,4.5556,0.6849,3.5000,5.0000,38.9831,0.7419,269.0000,0.6605,0.0004,0.0017,0.0084
+PixelArt,Compreensão da combinatória de 8 bits,1.0000,0.0000,2.4444,1.4614,1.0000,3.0000,144.4444,0.3611,252.0000,0.5556,0.0003,0.0017,0.0074
+PixelArt,Capacidade de prever o resultado da soma de cores,2.3889,1.0077,4.0556,1.0259,2.0000,4.0000,69.7674,0.6383,278.0000,0.7160,0.0002,0.0017,0.0048
+PixelArt,Compreensão do conceito de coordenadas em matrizes,2.9444,1.1290,4.5000,0.8333,2.5000,5.0000,52.8302,0.7568,269.5000,0.6636,0.0004,0.0017,0.0079

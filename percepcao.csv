@@ -1,0 +1,32 @@
+trilha,indicador,resposta_1,resposta_2,resposta_3,resposta_4,resposta_5,n
+Energia solar,Facilidade em compreender o conceito de geração de energia,1,0,4,0,13,18
+Energia solar,"Facilidade em compreender os conceitos de tensão, corrente e potência",0,0,3,5,10,18
+Energia solar,Facilidade em compreender situações que prejudicam a geração de energia,0,3,2,3,10,18
+Energia solar,Facilidade de aprender com experimentação prática frente a métodos tradicionais de ensino,0,4,2,5,7,18
+Energia solar,Nível de motivação e diversão durante a atividade,0,1,8,1,8,18
+Energia solar,Aumento de interesse em aprender ciência e tecnologia,0,2,2,6,8,18
+Energia eólica,Facilidade em compreender o conceito de geração de energia,1,0,5,0,12,18
+Energia eólica,"Facilidade em compreender os conceitos de tensão, corrente e potência",0,1,1,9,7,18
+Energia eólica,Facilidade em compreender situações que prejudicam a geração de energia,1,2,6,7,2,18
+Energia eólica,Facilidade de aprender com experimentação prática frente a métodos tradicionais de ensino,0,1,10,5,2,18
+Energia eólica,Nível de motivação e diversão durante a atividade,1,1,11,5,0,18
+Energia eólica,Aumento de interesse em aprender ciência e tecnologia,0,3,5,7,3,18
+Maquete,Facilidade em compreender o conceito de geração de energia,0,0,2,0,16,18
+Maquete,Facilidade em compreender o conceito de automação residencial,0,1,6,3,8,18
+Maquete,Facilidade em operar a maquete nesse contexto,1,3,2,5,7,18
+Maquete,Facilidade de aprender com experimentação prática frente a métodos tradicionais de ensino,0,1,2,5,10,18
+Maquete,Nível de motivação e diversão durante a atividade,0,0,1,4,13,18
+Maquete,Aumento de interesse em aprender ciência e tecnologia,0,0,1,5,12,18
+PixelArt,Facilidade em compreender o conceito de combinação de cores,2,0,5,0,11,18
+PixelArt,Facilidade em compreender o conceito de coordenadas em matrizes,10,0,5,0,3,18
+PixelArt,Facilidade em utilizar a BitDogLab nesse contexto,0,2,3,4,9,18
+PixelArt,Facilidade de aprender com experimentação prática frente a métodos tradicionais de ensino,0,3,1,6,8,18
+PixelArt,Nível de motivação e diversão durante a atividade,0,1,1,3,13,18
+PixelArt,Aumento de interesse em aprender ciência e tecnologia,0,1,1,7,9,18
+Programação com IA,Facilidade em descrever a ideia para a inteligência artificial,0,0,1,3,14,18
+Programação com IA,Facilidade em usar a ferramenta de inteligência artificial,0,1,2,4,11,18
+Programação com IA,Facilidade em entender o código gerado,0,3,2,5,8,18
+Programação com IA,Experiência de ver o código funcionando na BitDogLab,0,3,3,4,8,18
+Programação com IA,Facilidade em aprender frente a métodos tradicionais de ensino,1,2,2,6,7,18
+Programação com IA,Nível de motivação e diversão durante a atividade,0,0,1,5,12,18
+Programação com IA,Aumento de interesse em aprender ciência e tecnologia,0,0,1,6,11,18

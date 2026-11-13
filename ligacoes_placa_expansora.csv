@@ -1,0 +1,10 @@
+conector,canal_pwm_pca9685,pinos_pcf8575,numero_nos_programas,terminais
+PWM1,1,,,Pino PWM do conector
+PWM2,2,,,Pino PWM do conector
+PWM5,5,,,Pino PWM do conector
+PWM6,6,,,Pino PWM do conector
+Motor A1,9 (PWMA do driver 1),AIN1: P11; AIN2: P10; STBY: P12,AIN1: 9; AIN2: 8; STBY: 10,A11 e A21 (MOTORS1)
+Motor B1,10 (PWMB do driver 1),BIN1: P13; BIN2: P14; STBY: P12,BIN1: 11; BIN2: 12; STBY: 10,B11 e B21 (MOTORS1)
+Motor A2,13 (PWMA do driver 2),AIN1: P16; AIN2: P15; STBY: P17,AIN1: 14; AIN2: 13; STBY: 15,A12 e A22 (MOTORS2)
+Motor B2,14 (PWMB do driver 2),BIN1: P06; BIN2: P07; STBY: P17,BIN1: 6; BIN2: 7; STBY: 15,B12 e B22 (MOTORS2)
+D0 a D5,,P00 a P05,0 a 5,Conectores D0 a D5

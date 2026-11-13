@@ -1,0 +1,30 @@
+grupo,item,quantidade,preco_unitario_reais,subtotal_reais,loja,endereco_consultado,data_consulta,observacao
+Plataforma,Kit BitDogLab V7,1,349.99,349.99,Casa da Robótica,https://www.casadarobotica.com/placas-embarcadas/kit-educacional-4-0-completo-bitdoglab-v7-programacao-blocos,12/11/2026,"Preço normal; R$ 332,49 à vista. Não inclui cabo USB nem bateria 18650"
+Trilhas de energia,Mini painel solar de 6 V e 1 W,1,39.90,39.90,Saravati,https://www.saravati.com.br/painel-solar-6v-1w-mini-placa-fotovoltaica-110mm-x-60mm.html,12/11/2026,"Preço normal; preço especial de R$ 35,90 na mesma data"
+Trilhas de energia,Cooler de 140 mm e 12 V (gerador eólico),1,26.00,26.00,Chipset Informática,https://chipsetinfo.com.br/site/produtos/907-cooler-fan-alta-performance-140mm-rolamento-10.html,13/11/2026,"Modelo DEX DX-14C, de 140 x 140 x 25 mm. Preço no cartão; R$ 23,40 à vista"
+Trilhas de energia,Módulo INA226,1,25.00,25.00,,,,Valor aproximado informado pelo autor
+Trilhas de energia,Sensor BH1750,1,13.90,13.90,MakerHero,https://www.makerhero.com/produto/sensor-de-luz-bh1750fvi-lux/,12/11/2026,
+Trilhas de energia,Sensor AHT10,1,17.74,17.74,Usinainfo,https://www.usinainfo.com.br/sensor-de-temperatura/sensor-aht10-de-alta-precisao-para-medir-temperatura-e-umidade-5691.html,12/11/2026,
+Trilhas de energia,Magnetômetro HMC5883L,1,25.14,25.14,Usinainfo,https://www.usinainfo.com.br/giroscopio-e-bussola-digital/bussola-digital-hmc5883-magnetometro-tres-eixos-gy-273-2641.html,12/11/2026,
+Trilhas de energia,Potenciômetro linear,1,2.90,2.90,Smart Kits,https://www.smartkits.com.br/potenciometro-linear-10k,12/11/2026,
+Trilhas de energia,LED de 5 mm,4,0.20,0.80,Smart Kits,https://www.smartkits.com.br/led-difuso-5mm-vermelho,12/11/2026,
+Trilhas de energia,Cabo de 4 vias com conector JST XH,5,4.90,24.50,Saravati,https://www.saravati.com.br/cabo-motor-de-passo-jst-xh-2-54-4-pin-20cm-4-vias.html,12/11/2026,Produto fora de estoque na data da consulta; preço de lista da página
+Placa expansora,Módulo PCA9685,1,41.99,41.99,Casa da Robótica,https://www.casadarobotica.com/sensores-e-modulos/modulos/outros/modulo-pwm-pca9685-servo-motor-driver-16-canais-i2c,12/11/2026,
+Placa expansora,Módulo ADS1115,1,20.10,20.10,Usinainfo,https://www.usinainfo.com.br/conversor-ad-da-arduino/conversor-analogico-digital-ads1115-16-bits-4-canais-adc-8069.html,12/11/2026,
+Placa expansora,Módulo PCF8575,1,21.90,21.90,Smart Kits,https://www.smartkits.com.br/modulo-expansor-de-io-i2c-pcf8575,12/11/2026,
+Placa expansora,Módulo TB6612FNG,2,19.56,39.12,Usinainfo,https://www.usinainfo.com.br/driver-para-motor/driver-tb6612fng-duplo-ponte-h-de-motor-dc-ou-passo-4697.html,12/11/2026,
+Placa expansora,"Regulador de tensão de 3,3 V",1,3.39,3.39,Usinainfo,https://www.usinainfo.com.br/regulador-ams/regulador-de-tensao-smd-ams1117-33v-3142.html,12/11/2026,AMS1117 SMD; preço no cartão
+Placa expansora,Regulador de tensão de 5 V,1,4.33,4.33,Usinainfo,https://www.usinainfo.com.br/regulador-ams/regulador-de-tensao-smd-ams1117-5v-4642.html,12/11/2026,AMS1117 SMD; preço no cartão
+Placa expansora,Conector JST XH de 2 vias,14,0.20,2.80,Smart Kits,https://www.smartkits.com.br/jst-xh2-54,12/11/2026,
+Placa expansora,Conector JST XH de 3 vias,4,0.30,1.20,Smart Kits,https://www.smartkits.com.br/jst-xh2-54,12/11/2026,
+Placa expansora,Conector JST XH de 4 vias,6,0.40,2.40,Smart Kits,https://www.smartkits.com.br/conector-jst-xh2-54mm-macho-4-vias,12/11/2026,
+Placa expansora,Conector XT60 (dois pares),1,12.99,12.99,Casa da Robótica,https://www.casadarobotica.com/componentes-eletronicos/partes/conectores/2-pares-de-conector-xt-60-macho-e-femea-conector-lipo,12/11/2026,
+Placa expansora,Capacitor de 100 uF,7,0.30,2.10,Smart Kits,https://www.smartkits.com.br/capacitor-eletrolitico-100uf-16v,12/11/2026,Preço do capacitor eletrolítico de 100 uF / 16 V
+Placa expansora,Chave liga-desliga,1,1.00,1.00,Smart Kits,https://www.smartkits.com.br/mini-chave-gangorra-kcd11-101-250v3a-2-terminais-onoff,12/11/2026,
+Placa expansora,Chave seletora,1,0.70,0.70,Smart Kits,https://www.smartkits.com.br/micro-chave-hh-3t-2-posicoes-ss12d07,12/11/2026,
+Placa expansora,Placa de circuito impresso,1,20.00,20.00,,,,Valor aproximado informado pelo autor
+Placa expansora,"Bateria LiPo de 7,4 V e 2200 mAh",1,199.40,199.40,RoboCore,https://www.robocore.net/baterias-fontes/bateria-lipo-2s-2200mah-30c,12/11/2026,Produto esgotado na data da consulta; preço de lista da página
+Maquete,Servomotor SG90,3,17.99,53.97,Casa da Robótica,https://www.casadarobotica.com/robotica/atuadores/servos/micro-servo-motor-9g-sg90,12/11/2026,
+Maquete,Motor de corrente contínua,1,4.64,4.64,Usinainfo,https://www.usinainfo.com.br/motor-dc/motor-dc-3-6v-dc130-10000rpm-4656.html,12/11/2026,
+Maquete,Fita de LEDs WS2812B de 1 m (30 LEDs),1,39.90,39.90,Smart Kits,https://www.smartkits.com.br/fita-led-rgb-enderecavel-ws2812b,12/11/2026,A maquete usa 12 LEDs
+Maquete,Estrutura em MDF e peças do anemômetro,1,50.00,50.00,,,,Valor aproximado informado pelo autor
