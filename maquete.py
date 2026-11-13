@@ -119,9 +119,9 @@ PWM_MAX = 558
 # Motor DC via TB6612FNG
 MOTORES = {
     "A1": {"pwm": 9, "in1": 10 - 2, "in2": 11 - 2, "stby": 12 - 2},
-    "B1": {"pwm": 8, "in1": 13 - 2, "in2": 14 - 2, "stby": 15 - 2},
-    "A2": {"pwm": 7, "in1": 16 - 2, "in2": 17 - 2, "stby": 18 - 2},
-    "B2": {"pwm": 6, "in1": 19 - 2, "in2": 20 - 2, "stby": 21 - 2},
+    "B1": {"pwm": 10, "in1": 14 - 2, "in2": 13 - 2, "stby": 12 - 2},
+    "A2": {"pwm": 13, "in1": 15 - 2, "in2": 16 - 2, "stby": 17 - 2},
+    "B2": {"pwm": 14, "in1": 7, "in2": 6, "stby": 17 - 2},
 }
 
 # --- Faixas de LED dos cômodos ---

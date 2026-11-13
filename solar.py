@@ -74,7 +74,7 @@ def ler_irradiancia():
     try:
         data = i2c_BH1750.readfrom(BH1750_ADDR, 2)
         lux = ((data[0] << 8) | data[1]) / 1.2
-        return lux / 126
+        return lux / 122
     except: return None
     
 if tem_ina226:

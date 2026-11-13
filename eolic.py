@@ -48,7 +48,7 @@ RAIO_ROTOR     = 0.065   # raio das pás [m]
 AREA_ROTOR     = math.pi * RAIO_ROTOR ** 2
 RHO_AR         = 1.200   # densidade do ar [kg/m³] (~1.19 em Campinas)
 SHUNT_OHM      = 0.1     # shunt do INA226 [Ω]
-FATOR_CALIB    = 2.4     # fator de calibração empírico do anemômetro
+FATOR_CALIB    = 3.0     # fator do anemômetro de copos (valor da literatura, sem calibração)
 JANELA_ANEM_MS = 5000    # janela de integração [ms]
 
 # Thresholds — serão sobrescritos pela auto-calibração
